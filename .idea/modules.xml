@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hibernate_Assignment_01.iml" filepath="$PROJECT_DIR$/.idea/Hibernate_Assignment_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many_to_Many/Many_to_Many.iml" filepath="$PROJECT_DIR$/Many_to_Many/Many_to_Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One_To_One/One_To_One.iml" filepath="$PROJECT_DIR$/One_To_One/One_To_One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One_to_many/One_to_many.iml" filepath="$PROJECT_DIR$/One_to_many/One_to_many.iml" />
+    </modules>
+  </component>
+</project>
